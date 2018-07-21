@@ -34,11 +34,17 @@ In order to run the project, run the app.py file
 
 ### There are 2 options to get and retrieve data:
 1. requests - send GET/POST/DELETE requests directly to the server.
+
    You can use the pre built requests in the builtin_requests.py file.
+   
 2. web browser - use localhost in the browser.
+
    Get All Users Data - retrieve all basic details for all users.
+   
    Get User Details By ID - get basic details and profession details (hardcoded).
+   
    Create New User - create new user.
+   
 
    It is recommended to use JSON formatter extension in Chrome to parse the data.
 
