@@ -1,4 +1,4 @@
-Bullgard API assignment
+API assignment
 -------------------------
 
 ## PREREQUISITES
