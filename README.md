@@ -44,5 +44,7 @@ In order to run the project, run the app.py file
 
 ## TODO
 API: allow user details update.
+
 Permissions: set permissions to retrieve data based on role.
+
 Security: build log in process so the data will be available only to signed in users.
