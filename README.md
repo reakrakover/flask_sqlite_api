@@ -3,11 +3,13 @@ Bullgard API assignment
 
 ## PREREQUISITES
 Before you run the project, you will need to install all dependencies from the requirements.txt file
-$ pip install -r requirements.txt
+
+`$ pip install -r requirements.txt`
 
 ## RUNNING THE PROJECT
 In order to run the project, run the app.py file
-$ python app.py
+
+`$ python app.py`
 
 ## PROJECT INFO
 The project contains:
