@@ -1,4 +1,4 @@
-API assignment
+API Assignment
 -------------------------
 
 ## PREREQUISITES
