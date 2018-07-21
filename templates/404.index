@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Bullgard API</title>
+    <meta name="description" content="Bullgard API to retrieve users information">
+    <meta name="author" content="Rea Krakover">
+    <style>
+        html, body {
+        font-family: "Whitney SSm A", "Whitney SSm B", "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+        background-color: #2D72D9;
+        color: #fff;
+        display: block;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        }
+
+      .error-container {
+        text-align: center;
+        }
+
+      h1 {
+        font-size: 220px;
+        font-weight: 200;
+        position: relative
+        padding: 0
+        }
+    </style>
+</head>
+
+<body>
+    <div class="error-container">
+    <h1>404</h1>
+      <p>Go Back To <a href="/">Home Page</a></p>
+    </div>
+</body>
+</html>
