@@ -12,7 +12,7 @@ In order to run the project, run the app.py file
 `$ python app.py`
 
 ## PROJECT INFO
-The project contains:
+### The project contains:
 
 1 Pre populated DB file - bullgard_db.db
 
@@ -32,7 +32,7 @@ The project contains:
 `/bullguard/api/v1.0/users/<user_id>` [DELETE] - delete user by ID
 
 
-There are 2 options to get and retrieve data:
+### There are 2 options to get and retrieve data:
 1. requests - send GET/POST/DELETE requests directly to the server.
    You can use the pre built requests in the builtin_requests.py file.
 2. web browser - use localhost in the browser.
@@ -42,7 +42,7 @@ There are 2 options to get and retrieve data:
 
    It is recommended to use JSON formatter extension in Chrome to parse the data.
 
-TODO
+## TODO
 API: allow user details update.
 Permissions: set permissions to retrieve data based on role.
 Security: build log in process so the data will be available only to signed in users.
