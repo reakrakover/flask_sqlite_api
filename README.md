@@ -13,16 +13,23 @@ In order to run the project, run the app.py file
 
 ## PROJECT INFO
 The project contains:
+
 1 Pre populated DB file - bullgard_db.db
+
 3 python files - app.py, sqlite_db.py, builtin_requests.py
+
 1 HTML files folder
 
 ### API structure
-/bullguard/api/v1.0/users [GET] - get all users
-/bullguard/api/v1.0/users/<user_id> [GET] - get user by ID
-/bullguard/api/v1.0/users [POST] - create new user with curl/requests (should include first name, last name, role in JSON payload)
-/bullguard/api/v1.0/users/create-user [POST] - create new user with HTML form
-/bullguard/api/v1.0/users/<user_id> [DELETE] - delete user by ID
+`/bullguard/api/v1.0/users` [GET] - get all users
+
+`/bullguard/api/v1.0/users/<user_id>` [GET] - get user by ID
+
+`/bullguard/api/v1.0/users` [POST] - create new user with curl/requests (should include first name, last name, role in JSON payload)
+
+`/bullguard/api/v1.0/users/create-user` [POST] - create new user with HTML form
+
+`/bullguard/api/v1.0/users/<user_id>` [DELETE] - delete user by ID
 
 
 There are 2 options to get and retrieve data:
